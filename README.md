@@ -1,2 +1,1 @@
-# Project-34
-Kill the Monster
+# KILL THE MONSTER
